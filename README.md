@@ -1,23 +1,19 @@
 # 🚀 LeetCode & Data Science Journey
 
-Привет! Я первокурсник направления **ИСиТ в МАДИ**. Увлекаюсь математикой, линейной алгеброй и уверенно двигаюсь в сторону **Data Science и Artificial Intelligence (AI)**.
+Hi! I'm a first-year **Information Systems and Technologies (IS&T)** student at MADI. I have a strong passion for mathematics, linear algebra, and I am consistently moving towards **Data Science and Artificial Intelligence (AI)**.
 
-В этом репозитории я собираю свои решения алгоритмических задач с платформы LeetCode. Моя цель — не просто решать "в лоб", а оптимизировать код до максимума и связывать программирование с математической базой.
+This repository serves as a collection of my algorithmic solutions from LeetCode. My goal is not just to find a working solution, but to optimize the code to its limits and connect programming with a solid mathematical foundation.
 
-## 📊 Мои достижения на LeetCode
-* **Максимальная скорость:** Beats 100.00% ⚡
-* **Оптимизация памяти:** Beats 99.03% 🧠
+## 📊 LeetCode Achievements
+* **Max Execution Speed:** Beats 100.00% ⚡
+* **Memory Optimization:** Beats 99.03% 🧠
 
-## 📁 Список решенных задач
+## 📁 Repository Structure
 
-### 🔢 Линейная алгебра и матрицы (2D массивы)
-* [x] **867. Transpose Matrix** (`Transpose_Matrix.py`) — Транспонирование прямоугольных и квадратных матриц. Оптимизировано по индексам.
-* [x] **1572. Matrix Diagonal Sum** (`Matrix_Diagonal_Sum.py`) — Расчет суммы главной и побочной диагоналей за один цикл $O(N)$ с учетом центрального элемента.
+### 🔢 Linear Algebra & Matrices (2D Arrays)
+* [x] **867. Transpose Matrix** (`Transpose_Matrix.py`) — Transposing rectangular and square matrices. Fully optimized using raw memory indices.
+* [x] **1572. Matrix Diagonal Sum** (`Matrix_Diagonal_Sum.py`) — Calculating the sum of primary and secondary diagonals in a single $O(N)$ loop, handling the overlapping central element.
 
-### 📐 Базовые алгоритмы и массивы
-* [x] **1. Two Sum** (`Two_Sum.py`) — Поиск пары чисел с заданной суммой.
-* [x] **88. Merge Sorted Array** (`Merge_Sorted_Array.py`) — Слияние двух отсортированных массивов.
-
----
-*Качаю скиллы под треки Кая Ангела. Не останавливаюсь на достигнутом!* 🔥
-# leetcode-ds-algorithms
+### 📐 Basic Algorithms & Arrays
+* [x] **1. Two Sum** (`Two_Sum.py`) — Finding a pair of numbers that add up to a specific target.
+* [x] **88. Merge Sorted Array** (`Merge_Sorted_Array.py`) — Efficient merging of two sorted arrays.
