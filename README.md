@@ -1,4 +1,4 @@
-# 🚀 LeetCode & Data Science Journey
+#LeetCode & Data Science Journey
 
 Hi! I'm a first-year **Information Systems and Technologies (IS&T)** student at MADI. I have a strong passion for mathematics, linear algebra, and I am consistently moving towards **Data Science and Artificial Intelligence (AI)**.
 
