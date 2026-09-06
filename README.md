@@ -29,3 +29,25 @@ This repository serves as a collection of my algorithmic solutions from LeetCode
 ---
 *Pumping up engineering skills while listening to Kai Angel's new album. Never stopping, never settling!* 🔥
 
+
+## 🟢 27. Remove Element
+
+### 📝 Problem Description
+Given an integer array `nums` and an integer `val`, remove all occurrences of `val` in `nums` **in-place**. The order of the elements may be changed. Then return the number of elements in `nums` which are not equal to `val`.
+
+### 💡 Solution Approach
+This solution uses an **optimized Pythonic approach** with slice assignment (`nums[:]`). By using a list comprehension inside a slice, we filter out all occurrences of `val` and overwrite the original array directly in memory. This satisfies the strict **in-place** modification requirement enforced by the LeetCode testing environment without changing the object's reference ID.
+
+### 💻 Code
+```python
+class Solution(object):
+    def removeElement(self, nums: List[int], val: int) -> int:
+        nums[:] = [x for x in nums if x != val]
+        return len(nums)
+```
+
+### 📊 Complexity Analysis
+- **Time Complexity:** $O(N)$ — where $N$ is the length of the array. We iterate through the array once to filter the elements.
+- **Space Complexity:** $O(N)$ — temporary space is used by the list comprehension before writing the values back into the original slice.
+
+
