@@ -19,13 +19,13 @@ This repository serves as a collection of my algorithmic solutions from LeetCode
 ## 📁 Repository Structure
 
 ### 🔢 Linear Algebra & Matrices (2D Arrays)
-* [x] **867. Transpose Matrix** ([`Matrix/Transpose_Matrix.py`](./Matrix/Transpose_Matrix.py)) — Transposing rectangular and square matrices. Fully optimized using raw memory indices.
-* [x] **1572. Matrix Diagonal Sum** ([`Matrix/Matrix_Diagonal_Sum.py`](./Matrix/Matrix_Diagonal_Sum.py)) — Calculating the sum of primary and secondary diagonals in a single $O(N)$ loop, handling the overlapping central element.
+* [x] **867. Transpose Matrix** ([`Matrix/Transpose_Matrix.py`](./Matrix/Transpose_Matrix.py))
+* [x] **1572. Matrix Diagonal Sum** ([`Matrix/Matrix_Diagonal_Sum.py`](./Matrix/Matrix_Diagonal_Sum.py))
 
 ### 📐 Basic Algorithms & Arrays
-* [x] **1. Two Sum** ([`Hash_Map/Two_Sum.py`](./Hash_Map/Two_Sum.py)) — Finding a pair of numbers that add up to a specific target.
-* [x] **88. Merge Sorted Array** ([`Array_String/Merge_Sorted_Array.py`](./Array_String/Merge_Sorted_Array.py)) — Efficient merging of two sorted arrays.
-* [x]  **27. Remove Element** ([Array_String/Remove_Element.py](Array_String/Remove_Element.py)) — Removing all occurrences of a specific value in-place using slice assignment to maintain reference integrity.
+* [x] **1. Two Sum** ([`Hash_Map/Two_Sum.py`](./Hash_Map/Two_Sum.py))
+* [x] **88. Merge Sorted Array** ([`Array_String/Merge_Sorted_Array.py`](./Array_String/Merge_Sorted_Array.py))
+* [x]  **27. Remove Element** ([Array_String/Remove_Element.py](Array_String/Remove_Element.py))
 
 
 ---
