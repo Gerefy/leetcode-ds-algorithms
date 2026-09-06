@@ -25,6 +25,8 @@ This repository serves as a collection of my algorithmic solutions from LeetCode
 ### 📐 Basic Algorithms & Arrays
 * [x] **1. Two Sum** ([`Hash_Map/Two_Sum.py`](./Hash_Map/Two_Sum.py)) — Finding a pair of numbers that add up to a specific target.
 * [x] **88. Merge Sorted Array** ([`Array_String/Merge_Sorted_Array.py`](./Array_String/Merge_Sorted_Array.py)) — Efficient merging of two sorted arrays.
+* [x]  **27. Remove Element** ([Array_String/Remove_Element.py](Array_String/Remove_Element.py)) — Removing all occurrences of a specific value in-place using slice assignment to maintain reference integrity.
+
 
 ---
 *Pumping up engineering skills while listening to Kai Angel's new album. Never stopping, never settling!* 🔥
