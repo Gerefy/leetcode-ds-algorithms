@@ -26,7 +26,7 @@ This repository serves as a collection of my algorithmic solutions from LeetCode
 * [x] **1. Two Sum** ([`Hash_Map/Two_Sum.py`](./Hash_Map/Two_Sum.py))
 * [x] **88. Merge Sorted Array** ([`Array_String/Merge_Sorted_Array.py`](./Array_String/Merge_Sorted_Array.py))
 * [x] **27. Remove Element** ([Array_String/Remove_Element.py](Array_String/Remove_Element.py))
-* [X] **26. Remove Duplicates from Sorted Array** ([Array_String/Remove_Duplicates.py](Remove_Duplicates_from_Sorted_Array.py))
+* [X] **26. Remove Duplicates from Sorted Array** ([Array_String/Remove_Duplicates.py](Array_String/Remove_Duplicates_from_Sorted_Array.py))
 
 
 
