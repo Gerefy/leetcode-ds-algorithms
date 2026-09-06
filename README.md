@@ -27,6 +27,8 @@ This repository serves as a collection of my algorithmic solutions from LeetCode
 * [x] **88. Merge Sorted Array** ([`Array_String/Merge_Sorted_Array.py`](./Array_String/Merge_Sorted_Array.py))
 * [x] **27. Remove Element** ([Array_String/Remove_Element.py](Array_String/Remove_Element.py))
 * [X] **26. Remove Duplicates from Sorted Array** ([Array_String/Remove_Duplicates.py](Array_String/Remove_Duplicates_from_Sorted_Array.py))
+* [x] **80. Remove Duplicates from Sorted Array II** ([Array_String/Remove_Duplicates_II.py](Array_String/Remove_Duplicates_II.py))
+
 
 
 
