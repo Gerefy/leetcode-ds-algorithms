@@ -29,6 +29,8 @@ This repository serves as a collection of my algorithmic solutions from LeetCode
 * [X] **26. Remove Duplicates from Sorted Array** ([Array_String/Remove_Duplicates.py](Array_String/Remove_Duplicates_from_Sorted_Array.py))
 * [x] **80. Remove Duplicates from Sorted Array II** ([Array_String/Remove_Duplicates_II.py](Array_String/Remove_Duplicates_from_Sorted_Array_II.py))
 * [x] **169. Majority Element** ([Hash_Map/Majority_Element.py](Array_String/Majority_Element.py))
+* [x] **189. Rotate Array** ([Array_String/Rotate_Array.py](Array_String/Rotate_Array.py))
+
 
 
 
