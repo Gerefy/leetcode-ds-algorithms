@@ -30,6 +30,8 @@ This repository serves as a collection of my algorithmic solutions from LeetCode
 * [x] **80. Remove Duplicates from Sorted Array II** ([Array_String/Remove_Duplicates_II.py](Array_String/Remove_Duplicates_from_Sorted_Array_II.py))
 * [x] **169. Majority Element** ([Hash_Map/Majority_Element.py](Array_String/Majority_Element.py))
 * [x] **189. Rotate Array** ([Array_String/Rotate_Array.py](Array_String/Rotate_Array.py))
+* [X] **121. Best Time to Buy and Sell Stock** ([Array_String/Best_Time_to_Buy_and_Sell_Stock.py](Array_String/Best_Time_to_Buy_and_Sell_Stock.py))
+
 
 
 
