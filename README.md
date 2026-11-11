@@ -28,6 +28,7 @@ This repository serves as a collection of my algorithmic solutions from LeetCode
 * [x] **189. Rotate Array** ([Array_String/Rotate_Array.py](Array_String/Rotate_Array.py))
 * [X] **121. Best Time to Buy and Sell Stock** ([Array_String/Best_Time_to_Buy_and_Sell_Stock.py](Array_String/Best_Time_to_Buy_and_Sell_Stock.py))
 * [X] **122. Best Time to Buy and Sell Stock II** ([Array_String/Best_Time_to_Buy_and_Sell_Stock_II.py](Array_String/Best_Time_to_Buy_and_Sell_Stock_II.py))
+* [X] **55. Jump Game** ([Array_String/Jump_Game.py](Array_String/Jump_Game.py))
 
 
 
